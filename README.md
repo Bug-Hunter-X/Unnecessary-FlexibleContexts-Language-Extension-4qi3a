@@ -1,0 +1,1 @@
+This repository demonstrates a common Haskell error where the FlexibleContexts language extension is used unnecessarily. The original code includes this extension but doesn't actually require it. The solution removes the extension, simplifying the code and avoiding potential compatibility issues.
